@@ -4,7 +4,7 @@
 
 💬 At the moment I am obtaining my masters from the university of Würzburg. My focus is on deep learning, especially computer vision in the medical domain.
 
-🔭 I’m currently working on Self-Supervised Contrastive Learning
+🔭 I’m currently working on Self-Supervised (Contrastive) and Semi-Supervised Learning
 
 ⚡ The projects here are mostly private. Just trying to have fun with new and exciting frameworks/languages.
 
