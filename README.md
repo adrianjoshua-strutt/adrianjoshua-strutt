@@ -2,9 +2,7 @@
 
 <a href="https://www.linkedin.com/in/adrian-joshua-strutt-784494178/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-💬 At the moment I am obtaining my masters from the university of Würzburg. My focus is on deep learning, especially computer vision in the medical domain.
-
-🔭 I’m currently working on Self-Supervised (Contrastive) and Semi-Supervised Learning
+💬 SDE @ AWS
 
 ⚡ The projects here are mostly private. Just trying to have fun with new and exciting frameworks/languages.
 
