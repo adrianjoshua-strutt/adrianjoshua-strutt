@@ -4,6 +4,8 @@
 
 ⚡ The projects here are mostly private. Just trying to have fun with new and exciting frameworks/languages.
 
+Opinions are mine alone, and don't reflect those of my employer.
+
 <!--
 **adrianjoshua-strutt/adrianjoshua-strutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
